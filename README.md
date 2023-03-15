@@ -62,11 +62,11 @@ by analysing his or her scan.
 ## Results 
 ### 1. Django web interface
 
-![alt text](https://raw.githubusercontent.com/Dhrumil-1997/Covid19_Prediction/new/main/)
+![alt text](https://github.com/Dhrumil-1997/Covid19_Prediction/blob/main/web.png)
 
 ### Evaluation Metrics
 
-![alt text](https://raw.githubusercontent.com/Dhrumil-1997/Covid19_Prediction/new/main/)
+![alt text](https://github.com/Dhrumil-1997/Covid19_Prediction/blob/main/web.png/evaluation.png)
 
 ## Limitation
 False – Negative findings matter the most in this sort of
