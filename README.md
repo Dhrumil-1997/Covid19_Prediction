@@ -22,7 +22,7 @@ Used VGG16 network has 16 layers, as illustrated in Figure, with 13 convolutiona
 The relu activation function is applied between these layers. After that, there are three fully connected layers that hold the
 majority of the network’s parameters. Finally, the probability for each classification is calculated using a softmax function.
 
-![alt text](https://raw.githubusercontent.com/Dhrumil-1997/Covid19_Prediction/new/main/vgg16.png)
+![alt text](https://github.com/Dhrumil-1997/Covid19_Prediction/blob/main/vgg16.png)
 
 ### 2. ResNet50 
 ResNet50 is a ResNet variation containing 48 Convolution layers, 1 MaxPool layer, and 1 Average Pool layer as shown
@@ -32,7 +32,7 @@ and have a more identical structure. We have an input stem with a 7x7 convolutio
 stride. Then there’s a 3x3 max pooling layer with a 2 stride. In this layer, we successfully reduce the input width and height
 by four times while increasing the channel size to 64. We have a down-sampling block and residual blocks on stage 2 and following stages.
 
-![alt text](https://raw.githubusercontent.com/Dhrumil-1997/Covid19_Prediction/new/main/Resnet50.png)
+![alt text](https://github.com/Dhrumil-1997/Covid19_Prediction/blob/main/Resnet50.png)
 
 ### 3. Xception
 In deep learning frameworks like TensorFlow and Keras, Xception is a depthwise separable convolution, also known as "separable convolution", that comprises of two operations:
@@ -47,7 +47,7 @@ of stacked blocks of ReLU + Separatable Conv layers that do not change the image
 output to the exit flow. With the use of a maxpooling layer with a 3x3 filter and a strid of 2, entry and exit flows are employed to change the image’s dimensionality.
 
 
-![alt text](https://raw.githubusercontent.com/Dhrumil-1997/Covid19_Prediction/new/main/Xception.png)
+![alt text](https://github.com/Dhrumil-1997/Covid19_Prediction/blob/main/Xception.png)
 
 ## Experimental Setup
 
