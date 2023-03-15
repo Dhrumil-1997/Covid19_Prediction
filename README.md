@@ -97,3 +97,16 @@ to an X-ray machine and predicting COVID-19 in real time.
 
 ## Acknowledgement
 We would like to extend our sincere gratitude to Dr. Garima Bajwa, our supervisor, for his assistance with our research study.
+
+## How to run the code
+
+We used django web framework for web integration.You need to serup django environment in your system or location where your project is located.
+
+Please check the requirements.txt file for the pre-requiests for running the project.
+
+Then go to cmd ... go to the located path of your project and run manage.py file.
+
+Ex. path> pyhton manage.py runserver (Manage.py file locatated at "Covid_CNN_WebApp\cov_cnn_web")
+
+This will host your website on localhost and now you can use the website.
+
